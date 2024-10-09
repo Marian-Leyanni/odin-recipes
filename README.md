@@ -1,0 +1,1 @@
+This project has a main index page with links to several recipe pages. It demonstrates basic HTML skills such as text formatting, and adding links and images, among other things
